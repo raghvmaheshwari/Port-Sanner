@@ -24,7 +24,7 @@ A simple and efficient port scanner tool for network exploration.
 ```terminal
 python portscanner.py
 ```
-3. Follow the prompt to enter the target host and desired options.
+3. Follow the prompt to enter the target/s host.
 4. View the report of open ports in the terminal.
 
 ## Contributions
